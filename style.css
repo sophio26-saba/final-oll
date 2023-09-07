@@ -130,7 +130,7 @@ li {
 .neptune {
   background-color: #497efa;
 }
-.arrow {
+.arr {
   width: 4px;
   height: 8px;
   margin-top: 4px;
@@ -329,7 +329,7 @@ a {
   .circle {
     display: none;
   }
-  .arrow {
+  .arr {
     display: none;
   }
   /* section */
