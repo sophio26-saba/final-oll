@@ -394,7 +394,7 @@ a {
     text-align: left;
     padding: 0px 20px;
   }
-  .number {
+  .numb {
     opacity: 0.5;
   }
   span {
@@ -525,7 +525,7 @@ a {
     cursor: pointer;
     background-color: rgba(216, 216, 216, 0.2);
   }
-  .number {
+  .numb {
     margin-right: 18px;
   }
   .image-div{
